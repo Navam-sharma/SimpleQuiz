@@ -1,0 +1,7 @@
+.quiz-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    border: 3px solid green; 
+  }
